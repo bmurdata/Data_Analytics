@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 <!-- Make sure to check off completed functionality below -->
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [x] **The web app displays a title**
-- [ ] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
+- [x] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
 - [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
   - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [x] New logo and title
 
 ## Video Walkthrough
 
