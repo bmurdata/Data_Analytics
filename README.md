@@ -33,14 +33,14 @@ PGUSER=""
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bmurdata/Data_Analytics/blob/PostgresSQL/result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP
 
 ## Notes
 
-N/A
+Had some trouble loading certain data fields from PostgreSQL, as they would show up in the database and not display on the frontend- pricepoint, date submitted, and submitted by for example.
 
 ## License
 
