@@ -1,10 +1,10 @@
-# WEB103 Project 1 - Data_Analytics
+# WEB103 Project 2 - Data_Analytics Part 2
 
 Submitted by: Brian Murphy
 
 About this web app: Node project with client and server about Data Analytics
 
-Time spent: 3 hours
+Time spent: 1 hour
 
 ## Required Features
 
@@ -12,35 +12,35 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [x] **The web app displays a title**
-- [x] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
-- [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [x] **The web app serves an appropriate 404 page when no matching route is defined**
-- [x] **The web app is appropriately styled using Picocss**
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [x] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [x] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
-- [ ] The web app displays items in a unique format, such as cards rather than lists
+- [ ] The user can search for items with a specific attribute
 
 The following **additional** features are implemented:
 
-- [x] New logo and title
-
+- [x] Added a default item for PostgreSQL in case a local file isn't found
+- [x] Added a .env file to store and read credentials safely. Schema defined below
+PGDATABASE=""  
+PGHOST=""  
+PGPASSWORD=""  
+PGPORT=""  
+PGUSER=""  
 ## Video Walkthrough
-
-**Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/bmurdata/Data_Analytics/blob/main/result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap
+GIF created with LiceCAP
 
 ## Notes
 
-VS Code terminals for the server had to be shut down and restarted in a new terminal to take data changes. May be something wrong with my system.
+N/A
 
 ## License
 
